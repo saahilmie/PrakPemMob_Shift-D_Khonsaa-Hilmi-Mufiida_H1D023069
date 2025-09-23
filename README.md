@@ -22,5 +22,3 @@ Shift Baru: D
 # PERTEMUAN 3🐦‍⬛
 
 ![Video tampilan](assets/Tugas2_Pertemuan3.gif)
-
-<img src="assets/Tugas2_Pertemuan3.gif" width="400"/>
