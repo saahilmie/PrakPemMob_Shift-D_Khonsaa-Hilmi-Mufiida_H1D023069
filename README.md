@@ -7,6 +7,8 @@ Shift Baru: D
 
 # SS Tampilan Aplikasi
 
+# PERTEMUAN 2🐦‍⬛
+
 <img width="1236" height="504" alt="image" src="https://github.com/user-attachments/assets/fad278d9-a9b6-415e-b4ce-9bbd2fa89de8" />
 
 
@@ -14,3 +16,8 @@ Shift Baru: D
 
 
 <img width="368" height="637" alt="Screenshot 2025-09-16 222244" src="https://github.com/user-attachments/assets/787833d8-dbbe-4927-8c55-e91d756a0eac" />
+
+<br><br><br>
+
+# PERTEMUAN 3🐦‍⬛
+
