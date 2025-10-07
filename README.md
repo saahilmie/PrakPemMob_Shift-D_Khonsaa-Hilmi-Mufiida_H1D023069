@@ -28,3 +28,11 @@ Shift Baru: D
 # PERTEMUAN 4🐦‍⬛
 
 ![Video tampilan](assets/Tugas3_Pertemuan4.gif)
+
+<br><br><br>
+
+# PERTEMUAN 5🐦‍⬛
+
+![Video tampilan](assets/Tugas4_Pertemuan5.gif)
+
+<br><br><br>
